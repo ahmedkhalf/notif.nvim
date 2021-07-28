@@ -1,0 +1,1 @@
+require("notif_nvim")
